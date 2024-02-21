@@ -1,2 +1,2 @@
 # machine-learning
-	Personal project focused on predicting the price of flats in the near zone of Cluj Napoca using machine learning techniques.
+Welcome to my machine learning repository! Explore my passion projects crafted with resourceful datasets and open-source libraries.
